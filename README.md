@@ -1,29 +1,24 @@
-# Joseph's USB Hub
+# Jqseph's USB Hub
 
-A USB hub built in 3 days for Hack Club Fallout. It's a bit crappy, but it works!
+I built it in 3 days. it is almost an exact ripoff of the guide but thats ok.
+if u somehow don't know what a usb hub is it basically takes 1 usb port and turns it into 4. i chose this because it had a guide and i need to learn pcb design.
 
-## What Is a USB Hub?
+it uses usb 2.0 like the guide because it's easier to implement by a longshot. it passed erc and drc so it's good.
 
-A USB hub takes a single USB port and expands it into multiple ports — in this case, **one port becomes four**. Plug one end into your computer and you've instantly got extra ports to work with.
+<img width="748" height="473" alt="image" src="https://github.com/user-attachments/assets/7e141d71-11a9-4c31-ae37-23e3b247dddd" />
+<img width="740" height="514" alt="image" src="https://github.com/user-attachments/assets/8cdb1c0c-a857-4c35-a87f-501ce53aaeb8" />
 
-## Features
+I don't have it yet because shipping so no assembly photos.
 
-- **1** USB-C input port (main connection to your computer)
-- **2** USB-C output ports
-- **2** USB-A output ports
+the guide told me to get pcb assembly, i kinda want to solder the parts bc i got a hotplate from hack club blueprint, but i suck at soldering 
+so im not gonna. this means there sadly is no soldering instructions except for if you for some reason want to make this you have to look at the components on the pcb and order them
+and then solder them yourself.
 
-## Specs
+I'm not gonna pretend like i didnt follow the guide to a tee, but i did make a different shape, keyring, orientation, and writing all the journals.
 
-| Spec | Detail |
-|------|--------|
-| USB Standard | USB 2.0 |
-| Total Output Ports | 4 |
-| Output Port Types | 2× USB-C, 2× USB-A |
-
-> **Note:** This hub uses USB 2.0. Higher USB standards (3.0, 3.1, etc.) require additional signal pins that were not implemented here.
 
 ## Usage
 
-1. Plug the main USB-C port into your computer or power source.
-2. Connect up to 4 devices using the output ports (2× USB-C and 2× USB-A).
-3. That's it!
+1. plug it in to your computer
+2. plug in other things you want connected to said computer
+3. you did it :D
