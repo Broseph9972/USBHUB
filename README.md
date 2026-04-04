@@ -2,7 +2,7 @@
 
 <img width="628" height="828" alt="USB hub zine" src="https://github.com/user-attachments/assets/bf4cb8b9-63a4-456f-a475-9b0c4dd6d3e7" />
 
-I built it in 3 days. it is almost an exact ripoff of the guide but thats ok.
+I built it in 3 days. it is almost an exact ripoff of the guide but thats ok. it's in easyEDA so sorry kicad users.
 if u somehow don't know what a usb hub is it basically takes 1 usb port and turns it into 4. i chose this because it had a guide and i need to learn pcb design.
 
 it uses usb 2.0 like the guide because it's easier to implement by a longshot. it passed erc and drc so it's good.
