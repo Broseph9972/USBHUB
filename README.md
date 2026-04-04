@@ -27,7 +27,7 @@ and then solder them yourself.
 | 5 | 1 | USB Hub Controller | U1 | SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL | — | SL2.1s | CoreChips (和芯润德) | [C2684433](https://www.lcsc.com/product-detail/C2684433.html) | LCSC | $0.0343 |
 | 6 | 2 | USB-A Connector (THT) | USB2, USB3 | USB-A-TH_10.0QHHTZB6.3 | — | 10.0 QHHTZB6.3 | SHOU HAN (首韩) | [C668591](https://www.lcsc.com/product-detail/C668591.html) | LCSC | $0.0098 |
 
-I'm not gonna pretend like i didnt follow the guide to a tee, but i did make a different shape, keyring, orientation, and writing all the journals.
+I'm not gonna pretend like i didnt follow the guide to a tee, but i did make a different shape, keyring, orientation, and writing all the journals. i belive that qualifies as different cause i didn't copy and paste directly and I LEARNED STUFF
 
 
 ## Usage
