@@ -1,5 +1,7 @@
 # Jqseph's USB Hub
 
+## Does not need firmware or cad according to the guide.
+
 <img width="628" height="828" alt="USB hub zine" src="https://github.com/user-attachments/assets/bf4cb8b9-63a4-456f-a475-9b0c4dd6d3e7" />
 
 I built it in 3 days. it is almost an exact ripoff of the guide but thats ok. it's in easyEDA so sorry kicad users.
