@@ -1,10 +1,7 @@
-Supplier Part,Manufacturer Part,Manufacturer,LCSC Link,JLCPCB Price
-C14663,CC0603KRX7R9BB104,Yageo,https://www.lcsc.com/product-detail/C14663.html,$0.0186
-C1592,CL10A105KO8NNNC,Samsung Electro-Mechanics,https://www.lcsc.com/product-detail/C1592.html,$0.1144
-C2765186,,LCSC,https://www.lcsc.com/product-detail/C2765186.html,$0.4550
-C23186,0603WAF5101T5E,Uniroyal,https://www.lcsc.com/product-detail/C23186.html,$0.0168
-C2684433,,LCSC,https://www.lcsc.com/product-detail/C2684433.html,$1.1565
-C14663,CC0603KRX7R9BB104,Yageo,https://www.lcsc.com/product-detail/C14663.html,$0.0186
-C1592,CL10A105KO8NNNC,Samsung Electro-Mechanics,https://www.lcsc.com/product-detail/C1592.html,$0.1144
-C668591,,LCSC,https://www.lcsc.com/product-detail/C668591.html,$0.3954
-... (other existing entries can remain unchanged)
+#,Qty,Description,Link,JLCPCB Price
+1,8,1µF Capacitor,,—
+2,3,100nF Capacitor,,—
+3,3,USB-C Receptacle (16-pin),https://www.lcsc.com/product-detail/C2765186.html,$0.0097
+4,6,5.1KΩ Resistor,,—
+5,1,USB Hub Controller,https://www.lcsc.com/product-detail/C2684433.html,$0.0343
+6,2,USB-A Connector (THT),https://www.lcsc.com/product-detail/C668591.html,$0.0098
