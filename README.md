@@ -21,14 +21,10 @@ and then solder them yourself.
 
 ## Bill of Materials (BOM)
 
-| # | Qty | Description | Link | JLCPCB Price |
-|---|-----|-------------|------|--------------|
-| 1 | 8 | 1µF Capacitor | — | — |
-| 2 | 3 | 100nF Capacitor | — | — |
-| 3 | 3 | USB-C Receptacle (16-pin) | [LCSC C2765186](https://www.lcsc.com/product-detail/C2765186.html) | $0.0097 |
-| 4 | 6 | 5.1KΩ Resistor | — | — |
-| 5 | 1 | USB Hub Controller | [LCSC C2684433](https://www.lcsc.com/product-detail/C2684433.html) | $0.0343 |
-| 6 | 2 | USB-A Connector (THT) | [LCSC C668591](https://www.lcsc.com/product-detail/C668591.html) | $0.0098 |
+|Name        |Price |Quantity|Link                                 |Notes                             |
+|------------|------|--------|-------------------------------------|----------------------------------|
+|Pcb assembly|$25.53|1       |https://cart.jlcpcb.com/shopcart/cart|I couldnt find a way to share this|
+|PCB         |$4    |1       |https://cart.jlcpcb.com/shopcart/cart|I couldnt find a way to share this|
 
 I'm not gonna pretend like i didnt follow the guide to a tee, but i did make a different shape, keyring, orientation, and writing all the journals. i belive that qualifies as different cause i didn't copy and paste directly and I LEARNED STUFF
 
