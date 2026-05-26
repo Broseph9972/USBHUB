@@ -5,10 +5,13 @@
 <img width="3300" height="5100" alt="ZINE USB HUB" src="https://github.com/user-attachments/assets/e75cb867-6c34-47a9-85dc-e1e7e8426400" />
 
 
-I built it in 3 days. it is almost an exact ripoff of the guide but thats ok. it's in easyEDA so sorry kicad users.
-if u somehow don't know what a usb hub is it basically takes 1 usb port and turns it into 4. i chose this because it had a guide and i need to learn pcb design.
+I built this USB hub in like 3 days to lean pcb design and it worked out great. nothing crazy, just 4 ports connected via usb-c.
+
+all you need to do is plug in the main usb-c to your computer and all the other ports should work oin your computer. 
 
 it uses usb 2.0 like the guide because it's easier to implement by a longshot. it passed erc and drc so it's good.
+
+i made it to learn pcb design and i learned a lot.
 
 <img width="748" height="473" alt="image" src="https://github.com/user-attachments/assets/7e141d71-11a9-4c31-ae37-23e3b247dddd" />
 <img width="740" height="514" alt="image" src="https://github.com/user-attachments/assets/8cdb1c0c-a857-4c35-a87f-501ce53aaeb8" />
