@@ -38,5 +38,5 @@ I'm not gonna pretend like i didnt follow the guide to a tee, but i did make a d
 ## Usage
 
 1. plug it in to your computer
-2. plug in other things you want connected to said computer
+2. plug in other things you want connected into the awesome incredible usb hub of truth and justice
 3. you did it :D
