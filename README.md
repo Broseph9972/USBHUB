@@ -13,6 +13,9 @@ it uses usb 2.0 like the guide because it's easier to implement by a longshot. i
 
 i made it to learn pcb design and i learned a lot.
 
+![Onshape Link](https://cad.onshape.com/documents/7dec381850385a70d28e42b0/w/3f5c1213f9f020c166704397/e/de968b44981793906c8fd906?renderMode=0&uiState=6a216cce2373db4f38114b34)<img width="506" height="301" alt="image" src="https://github.com/user-attachments/assets/c4a17a09-e822-4661-a094-cb5ee555fbf2" />
+
+
 <img width="748" height="473" alt="image" src="https://github.com/user-attachments/assets/7e141d71-11a9-4c31-ae37-23e3b247dddd" />
 <img width="740" height="514" alt="image" src="https://github.com/user-attachments/assets/8cdb1c0c-a857-4c35-a87f-501ce53aaeb8" />
 
