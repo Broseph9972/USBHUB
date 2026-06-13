@@ -1,3 +1,6 @@
-,Name,Price,Quantity,Link,Notes
-,Pcb assembly,$25.53,1,https://cart.jlcpcb.com/shopcart/cart,I couldnt find a way to share this
-,PCB,$4,1,https://cart.jlcpcb.com/shopcart/cart,I couldnt find a way to share this
+Name,Quantity,Designator,Price,Note,Link
+0603 Capacitors,17,"C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,R1,R2,R3,R4,R5,R6",,"1µF,5.1K,100nF",https://www.lcsc.com/product-image/C1591.html
+C268443 Chip,1,U1,0.0375,SL2.1s,https://www.lcsc.com/product-detail/C2684433.html
+Type-C Port,3,"USB1,USB4,USB5",0.011,TYPE-C 16PIN 2MD(073),https://www.lcsc.com/product-detail/C2765186.html
+USB-A Port,2,"USB2,USB3",0.0099,10.0 QHHTZB6.3,https://www.lcsc.com/product-detail/C668591.html
+PCB,1,N/A,$4,Download from repo,https://jlcpcb.com
