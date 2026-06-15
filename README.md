@@ -1,23 +1,25 @@
 # Jqseph's USB Hub
 
+This is a usb hub. It takes one Usb slot on your computer (or other device) and turns it into 4 more. requires a usb-c cable.
+Made in 3 days over 6 hours during vacation
+
 ## Does not need firmware according to [this guide](https://fallout.hackclub.com/docs/guided-projects/usb-hub)
 
 <img width="3300" height="5100" alt="ZINE USB HUB" src="https://github.com/user-attachments/assets/e75cb867-6c34-47a9-85dc-e1e7e8426400" />
+
+
 [Zine.pdf](https://github.com/user-attachments/files/28595145/585077817-e75cb867-6c34-47a9-85dc-e1e7e8426400.pdf)
 
+---
 
+## Assembly - 
+Solder usb connectors, Capacitors, and the usb splitter chip. It's all SMD so reflow soldering is recommended. It should just work out of the box.
 
-I built this USB hub in like 3 days to lean pcb design and it worked out great. nothing crazy, just 4 ports connected via usb-c.
+## Why?
+i did this project to learn pcb design, and i genuinely learned so much from this project alone. 
+![Onshape Link](https://cad.onshape.com/documents/7dec381850385a70d28e42b0/w/3f5c1213f9f020c166704397/e/de968b44981793906c8fd906?renderMode=0&uiState=6a216cce2373db4f38114b34)
 
-all you need to do is plug in the main usb-c to your computer and all the other ports should work oin your computer. 
-
-it uses usb 2.0 like the guide because it's easier to implement by a longshot. it passed erc and drc so it's good.
-
-i made it to learn pcb design and i learned a lot.
-
-![Onshape Link](https://cad.onshape.com/documents/7dec381850385a70d28e42b0/w/3f5c1213f9f020c166704397/e/de968b44981793906c8fd906?renderMode=0&uiState=6a216cce2373db4f38114b34)<img width="506" height="301" alt="image" src="https://github.com/user-attachments/assets/c4a17a09-e822-4661-a094-cb5ee555fbf2" />
-
-
+<img width="506" height="301" alt="image" src="https://github.com/user-attachments/assets/c4a17a09-e822-4661-a094-cb5ee555fbf2" />
 <img width="748" height="473" alt="image" src="https://github.com/user-attachments/assets/7e141d71-11a9-4c31-ae37-23e3b247dddd" />
 <img width="740" height="514" alt="image" src="https://github.com/user-attachments/assets/8cdb1c0c-a857-4c35-a87f-501ce53aaeb8" />
 
