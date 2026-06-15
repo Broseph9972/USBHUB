@@ -1,6 +1,6 @@
 # Jqseph's USB Hub
 
-## Does not need firmware according to ![this guide](https://fallout.hackclub.com/docs/guided-projects/usb-hub)
+## Does not need firmware according to [this guide](https://fallout.hackclub.com/docs/guided-projects/usb-hub)
 
 <img width="3300" height="5100" alt="ZINE USB HUB" src="https://github.com/user-attachments/assets/e75cb867-6c34-47a9-85dc-e1e7e8426400" />
 [Zine.pdf](https://github.com/user-attachments/files/28595145/585077817-e75cb867-6c34-47a9-85dc-e1e7e8426400.pdf)
