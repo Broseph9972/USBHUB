@@ -9,6 +9,8 @@ Made in 3 days over 6 hours during vacation
 
 
 [Zine.pdf](https://github.com/user-attachments/files/28595145/585077817-e75cb867-6c34-47a9-85dc-e1e7e8426400.pdf)
+[Onshape Link](https://cad.onshape.com/documents/7dec381850385a70d28e42b0/w/3f5c1213f9f020c166704397/e/de968b44981793906c8fd906?renderMode=0&uiState=6a216cce2373db4f38114b34)
+
 
 ---
 
@@ -16,8 +18,7 @@ Made in 3 days over 6 hours during vacation
 Solder usb connectors, Capacitors, and the usb splitter chip. It's all SMD so reflow soldering is recommended. It should just work out of the box.
 
 ## Why?
-i did this project to learn pcb design, and i genuinely learned so much from this project alone. 
-![Onshape Link](https://cad.onshape.com/documents/7dec381850385a70d28e42b0/w/3f5c1213f9f020c166704397/e/de968b44981793906c8fd906?renderMode=0&uiState=6a216cce2373db4f38114b34)
+i did this project to learn pcb design, and i genuinely learned so much from this project alone.
 
 <img width="506" height="301" alt="image" src="https://github.com/user-attachments/assets/c4a17a09-e822-4661-a094-cb5ee555fbf2" />
 <img width="748" height="473" alt="image" src="https://github.com/user-attachments/assets/7e141d71-11a9-4c31-ae37-23e3b247dddd" />
