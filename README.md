@@ -12,6 +12,7 @@ Made in 3 days over 6 hours during vacation
 
 ## Assembly - 
 Solder usb connectors, Capacitors, and the usb splitter chip. It's all SMD so reflow soldering is recommended. It should just work out of the box.
+When Printing a case, pause at layer ~64 (for 0.2mm layer height) and put the pcb in. then let it finish printing. make sure to only allow supports from the outside in your slicer.
 
 ## Why?
 i did this project to learn pcb design, and i genuinely learned so much from this project alone.
@@ -23,7 +24,7 @@ i did this project to learn pcb design, and i genuinely learned so much from thi
 I don't have it yet because shipping so no assembly photos.
 
 the guide told me to get pcb assembly, i kinda want to solder the parts bc i got a hotplate from hack club blueprint, but i suck at soldering 
-so im not gonna. this means there sadly is no soldering instructions except for if you for some reason want to make this you have to look at the components on the pcb and order them
+so im not gonna. this means there sadly is no soldering instructions except for if you for  some reason want to make this you have to look at the components on the pcb and order them
 and then solder them yourself.
 
 ## Bill of Materials (BOM)
