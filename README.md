@@ -4,13 +4,7 @@ This is a usb hub. It takes one Usb slot on your computer (or other device) and 
 Made in 3 days over 6 hours during vacation
 
 ## Does not need firmware according to [this guide](https://fallout.hackclub.com/docs/guided-projects/usb-hub)
-
-<img width="3300" height="5100" alt="ZINE USB HUB" src="https://github.com/user-attachments/assets/e75cb867-6c34-47a9-85dc-e1e7e8426400" />
-
-
-[Zine.pdf](https://github.com/user-attachments/files/28595145/585077817-e75cb867-6c34-47a9-85dc-e1e7e8426400.pdf)
-[Onshape Link](https://cad.onshape.com/documents/7dec381850385a70d28e42b0/w/3f5c1213f9f020c166704397/e/de968b44981793906c8fd906?renderMode=0&uiState=6a216cce2373db4f38114b34)
-
+<img width="3300" height="5100" alt="Untitled - April 28, 2026 at 00 10 23" src="https://github.com/user-attachments/assets/9470feaf-c6bf-4f19-b530-658026f5514c" />
 
 ---
 
