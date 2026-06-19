@@ -3,6 +3,8 @@
 This is a usb hub. It takes one Usb slot on your computer (or other device) and turns it into 4 more. requires a usb-c cable.
 Made in 3 days over 6 hours during vacation
 
+[Onshape Link](https://cad.onshape.com/documents/7dec381850385a70d28e42b0/w/3f5c1213f9f020c166704397/e/de968b44981793906c8fd906?renderMode=0&uiState=6a34a872ebf240825544a086)
+
 ## Does not need firmware according to [this guide](https://fallout.hackclub.com/docs/guided-projects/usb-hub)
 <img width="3300" height="5100" alt="Untitled - April 28, 2026 at 00 10 23" src="https://github.com/user-attachments/assets/9470feaf-c6bf-4f19-b530-658026f5514c" />
 
